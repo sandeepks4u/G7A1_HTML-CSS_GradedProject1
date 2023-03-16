@@ -5,7 +5,6 @@ html{
 body{
     margin: 0%;
     left: 0%;
-    /* font-family: 'Times New Roman', Times, serif; */
 }
 
 #headerTag h1{
@@ -37,20 +36,14 @@ body{
 }
 
 a{
-    /* float: left; */
     text-decoration: none;
     color: white;
-    /* margin: 0%; */
     margin: 15px, 0px, 15px,0px;
 }
 
 #navigationbaritems li{
-    /* list-style: none; */
     display: inline-block;
     width: 150px;
-    /* margin-left: 20px; */
-    /* margin-right: 20px; */
-    /* text-align: left; */
     padding: 5px;
 }
 
@@ -81,19 +74,16 @@ a{
 
 
 #navigationbaritems li:hover .dropdown{
-    /* margin: 0%; */
     float: left;
     display: block;
     padding: 0%;
     width: auto;
-    /* text-align: left; */
     overflow: hidden;
 }
 
 .imganimation{
     display: flex;
     margin-top: 10px;
-    /* width: 1000px; */
     width: 100%;
     height: 300px;
     margin-left: -10% ;
@@ -106,7 +96,6 @@ a{
     border-style: double;
     border: 20px steelblue;
 
-    /* box-shadow: -1px 5px 15px black; */
 }
 
 .slide{
@@ -144,13 +133,10 @@ a{
   
 }
 
-/* covid products */
 .covidproducts{
     left: 0px;
     top: 400px;
     margin-top: 490px;
-    /* margin-bottom: 80px; */
-    /* margin-left: 20px; */
 }
 
 .covidproducts h2{
@@ -171,7 +157,6 @@ a{
     margin-left: 30px;
     border-radius: 12px;
     background-color: rgb(241, 240, 248);
-    /* height: 345px; */
     padding: 10px;
     box-shadow: -5px 7px 11px -6px rgba(0,0,0,0.75);
     bottom: 45px;
@@ -216,8 +201,6 @@ a{
     color: rgb(241, 115, 56);
     background-color: rgb(217, 215, 247);
     text-align: center;
-    /* transform: translate(20%, 10%); */
-    /* font-weight: bold; */
 }
 
 .singleProductConfig button:active{
